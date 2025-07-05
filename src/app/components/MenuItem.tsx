@@ -2,7 +2,7 @@
 "use client"
 import React from 'react'
 import { useState, useEffect } from "react";
-import { Product } from "@/pages/type";
+import  {Product}  from "@/type";
 import Productcard from "./Productcard";
 import Image from 'next/image';
 

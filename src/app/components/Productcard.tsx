@@ -1,5 +1,5 @@
 import React from 'react'
-import {Product} from "@/pages/type";
+import {Product} from "@/type";
 import Image from 'next/image';
 
 interface ProductCardProps extends Product {
